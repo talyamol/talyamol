@@ -31,7 +31,7 @@ Welcome to my GitHub space! 🚀
 - Postman API
 - AWS
 - Docker
-- ען
+- 
 ### UI Libraries:
 - MUI (Material-UI)
 - Angular Material
