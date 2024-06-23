@@ -1,5 +1,7 @@
 #  👋 Hi, I'm Talya
 
+Welcome to my GitHub space! 🚀
+
 ## 🛠️ Skills
 
 ### Languages:
