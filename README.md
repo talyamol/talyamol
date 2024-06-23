@@ -10,7 +10,7 @@ Welcome to my GitHub space! 🚀
 - Python
 - C++
 - Node.js
-- 
+  
 ### Web Development:
 - HTML
 - CSS
@@ -31,7 +31,7 @@ Welcome to my GitHub space! 🚀
 - Postman API
 - AWS
 - Docker
-- 
+
 ### UI Libraries:
 - MUI (Material-UI)
 - Angular Material
